@@ -1,0 +1,22 @@
+==================================================================
+imcon -- Open source Windows library for multiple consoles
+Copyright (C) 2013 - x8esix -- see doc\LICENSE.TXT
+==================================================================
+
+A simple Windows library to allow multiple consoles (has been
+especially useful in debugging code injection). Also allows you
+to use your own console in code injection if the process has
+already allocated one.
+  
+  > imcon_public.h -- header file to include in projects
+  > LICENSE.TXT   -- MIT license
+ 
+  > examples\client -- example client that can be used with imcon
+  > examples\server -- showing simple setup of the client
+
+Project hosted at http://github.com/x8esix/imcon/
+
+ -- x8esix (x8esix@nopthis.net) :: x8esix.nopthis.net
+ 
+==================================================================
+
